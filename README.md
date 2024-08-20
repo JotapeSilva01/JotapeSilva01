@@ -1,5 +1,6 @@
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape01__/?utm_source=ig_web_button_share_sheet)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedrodasilva874@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hi,+im+João+Silva!)](https://git.io/typing-svg)
+
+
 
 #### ⦿ Tenho 18 anos e sou formado em Técnico em Informática para Internet pelo Insituto Sonhar Alto - Guarulhos-SP.
 
@@ -8,19 +9,21 @@
 
 ### Tecnologias das quais utilizo:
 
-<div style="display: inline_block">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,java,react,git,github,ps,,,,,,,htmlc,css,dotnet&perline=13" />
+  </a>
+</p>
 
 </div>
 
 ### Estatísticas:
 
-![Kadisa GitHub stats](https://github-readme-stats.vercel.app/api?username=JotapeSilva01&show_icons=true&theme=tokyonight)
+![João Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=JotapeSilva01&show_icons=true&theme=tokyonight)
+
+### Contatos:
+
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)]((https://www.instagram.com/jotape01__/?utm_source=ig_web_button_share_sheet))
+[![Gmail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](mailto:joaopedrodasilva874@gmail.com)
+
 
