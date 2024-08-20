@@ -5,7 +5,6 @@
 
 #### ⦿ Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixoanado pela área de informática.
 
-#### ⦿ Atualmente trabalho como Programador de Sistemas na Companhia de Trens Metropolitanos, e curso Desenvolvimento de Sistemas no Senai Mariano Ferraz.
 
 ### Tecnologias das quais utilizo:
 
