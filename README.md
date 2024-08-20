@@ -19,6 +19,7 @@
 
 ### Estatísticas:
 
+
 ![João Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=JotapeSilva01&show_icons=true&theme=tokyonight)
 
 ### Contatos:
