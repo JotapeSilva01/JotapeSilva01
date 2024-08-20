@@ -1,5 +1,4 @@
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/jotape01__/?utm_source=ig_web_button_share_sheet))
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotape01__/?utm_source=ig_web_button_share_sheet)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedrodasilva874@gmail.com)
 
 #### ⦿ Tenho 18 anos e sou formado em Técnico em Informática para Internet pelo Insituto Sonhar Alto - Guarulhos-SP.
