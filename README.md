@@ -1,14 +1,14 @@
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kadisa_wrd?igsh=MTRyZzFycTZ1eDd4Ng==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/jotape01__/?utm_source=ig_web_button_share_sheet))
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedrodasilva874@gmail.com)
 
-### ⦿ Tenho 21 anos e sou formado em Técnico em Informática para Internet pelo Insituto Federal de São Paulo - Campus Avançado São Miguel Paulista, na qual fui monitor do Curso no úlimo período.
+#### ⦿ Tenho 18 anos e sou formado em Técnico em Informática para Internet pelo Insituto Sonhar Alto - Guarulhos-SP.
 
-### ⦿ Sou apaixonado por desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixoanado pela área de informática.
+#### ⦿ Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixoanado pela área de informática.
 
-### ⦿ Atualmente trabalho como Programador de Sistemas na Companhia de Trens Metropolitanos, e curso Desenvolvimento de Sistemas no Senai Mariano Ferraz.
+#### ⦿ Atualmente trabalho como Programador de Sistemas na Companhia de Trens Metropolitanos, e curso Desenvolvimento de Sistemas no Senai Mariano Ferraz.
 
-## Tecnologias das quais utilizo:
+### Tecnologias das quais utilizo:
 
 <div style="display: inline_block">
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -22,8 +22,7 @@
 
 </div>
 
-## Estatísticas:
+### Estatísticas:
 
-![Kadisa GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadisa-Cyber&show_icons=true&theme=tokyonight)
+![Kadisa GitHub stats](https://github-readme-stats.vercel.app/api?username=JotapeSilva01&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadisa-Cyber&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
