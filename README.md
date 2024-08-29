@@ -23,8 +23,7 @@
 ![João Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=JotapeSilva01&show_icons=true&theme=tokyonight)
 
 ### Contatos:
-
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)]((https://www.instagram.com/jotape01__/?utm_source=ig_web_button_share_sheet))
-[![Gmail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](mailto:joaopedrodasilva874@gmail.com)
-
-
+<div>
+<a href="https://instagram.com/jotape01__" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaopedrodasilva874@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
