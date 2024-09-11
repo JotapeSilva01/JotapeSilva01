@@ -4,7 +4,7 @@
 
 #### ⦿ Tenho 19 anos e sou formado em Técnico em Informática para Internet pelo Insituto Sonhar Alto - Guarulhos-SP.
 
-#### ⦿ Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixoanado pela área de informática.
+#### ⦿ Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática.
 
 
 ### Tecnologias das quais utilizo:
