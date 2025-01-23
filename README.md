@@ -9,7 +9,7 @@ Olá, me chamo João
 
 #### ⦿ Atualmente curso Analise e Desenvolvimento de Sistemas Pela faculdade Impacta-SP.
 
-### Tecnologias das quais utilizo:
+#### ⦿ Tecnologias das quais utilizo:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,7 +17,7 @@ Olá, me chamo João
   </a>
 </p>
 
-### Acesse alguns dos meus [Projetos](https://github.com/JotapeSilva01?tab=repositories) para saber do que sou capaz 🐱‍🏍 
+#### ⦿ Acesse alguns dos meus [Projetos](https://github.com/JotapeSilva01?tab=repositories) para saber do que sou capaz 🐱‍🏍 
 
 </div>
 
