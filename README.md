@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hi,+im+João+Silva!)](https://git.io/typing-svg)
 
-
-#### Olá, me chamo João
-
 #### Tenho 19 anos, e gosto muito de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática. Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática.
 
 #### ⦿ formado em Técnico em Informática para Internet pelo Insituto Sonhar Alto - Guarulhos-SP.
