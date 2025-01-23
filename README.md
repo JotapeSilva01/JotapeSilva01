@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hi,+im+João+Silva!)](https://git.io/typing-svg)
 
+osto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática. Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática.
 
+#### ⦿ formado em Técnico em Informática para Internet pelo Insituto Sonhar Alto - Guarulhos-SP.
 
-#### ⦿ Tenho 19 anos e sou formado em Técnico em Informática para Internet pelo Insituto Sonhar Alto - Guarulhos-SP.
+#### ⦿ Sou Analista de Sistemas da CPTM, e faço curso de Desenvolvimento de Sistema no Senai.
 
-#### ⦿ Gosto de desafios e coisas que instiguem novas formas de pensar para chegar a resolução de algum problema, por isso desde criança sou apaixonado pela área de informática.
-
+#### ⦿ Atualmente curso Analise e Desenvolvimento de Sistemas Pela faculdade Impacta-SP.
 
 ### Tecnologias das quais utilizo:
 
